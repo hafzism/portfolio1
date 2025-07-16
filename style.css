@@ -718,6 +718,10 @@ footer:before {
     .homesheet{
         width: 90%;
     }
+    .whitesheet{
+        margin-left: 0;
+        margin-right: 0;
+    }
     .fixed-logo-space {
         height: 28px;
         width: 28px;
