@@ -715,6 +715,9 @@ footer:before {
 
 
 @media (max-width: 450px) {
+    .homesheet{
+        width: 90%;
+    }
     .fixed-logo-space {
         height: 28px;
         width: 28px;
